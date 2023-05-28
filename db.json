@@ -5,6 +5,12 @@
       "price": 12,
       "completed": true,
       "id": 3
+    },
+    {
+      "name": "san pham 2",
+      "price": 100,
+      "completed": true,
+      "id": 4
     }
   ]
 }
